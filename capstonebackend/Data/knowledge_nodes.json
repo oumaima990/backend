@@ -1,0 +1,16 @@
+[
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Voca_زِينَة",
+            "description": "Vocabulary for KC_Voca_زِينَة'",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+      "model": "knowledge.text",
+      "fields": {
+        "content": "كان أحمد سعيدًا في يوم ميلاده. احتفل مع عائلته وأصدقائه في الحديقة الكبيرة. علّق الزينة على الأشجار وغرس شتلة جديدة مع والده. قال أحمد: \"كل عام وأنتم بخير!\" كانت هذه لحظة مليئة بالمتعة والفرح.",
+        "title": "Birthday Celebration",
+        "grade": 1,
+        "unit": 1
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "كان",
+        "lemma": "كان",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "أحمد",
+        "lemma": "أَحْمَد",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "سعيدًا",
+        "lemma": "سَعِيد",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "في",
+        "lemma": "فِي",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "يوم",
+        "lemma": "يَوْم",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "ميلاده",
+        "lemma": "مِيلاد",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "احتفل",
+        "lemma": "ٱِحْتَفَل",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "مع",
+        "lemma": "مَع",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "عائلته",
+        "lemma": "عائِلَة",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "وأصدقائه",
+        "lemma": "صَدِيق",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "في",
+        "lemma": "فِي",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "الحديقة",
+        "lemma": "حَدِيقَة",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "الكبيرة",
+        "lemma": "كَبِير",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "علّق",
+        "lemma": "عَلَّق",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "الزينة",
+        "lemma": "زِينَة",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "على",
+        "lemma": "عَلَى",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "الأشجار",
+        "lemma": "شَجَرَة",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "وغرس",
+        "lemma": "غَرْس",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "شتلة",
+        "lemma": "شَتْلَة",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "جديدة",
+        "lemma": "جَدِيد",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "مع",
+        "lemma": "مَع",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "والده",
+        "lemma": "والِد",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "قال",
+        "lemma": "قال-ُ",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "كل",
+        "lemma": "كُلّ",
+        "knowledge_component": null
+      }
+    },
+    {
+      "model": "knowledge.wordmapping",
+      "fields": {
+        "text": 1,
+        "surface_form": "عام",
+        "lemma": "عام",
+        "knowledge_component": null
+      }
+    }
+]

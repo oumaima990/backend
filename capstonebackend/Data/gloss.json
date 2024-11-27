@@ -1,0 +1,20 @@
+[
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "زِينَة",
+            "gloss": "كان: فعل ماضٍ يُستخدم للدKC_Voca_الأشجار",
+            "definition": "يُعبر عن وجود KC_Voca_الأشجار في الماضي."
+        }
+    },
+    {
+        "model": "knowledge.question",
+        "fields": {
+            "node": "KC_Voca_زِينَة",
+            "type": "multiple_choice",
+            "question": "ما معنى كلمة '2222'؟",
+            "options": [" KC_Voca_الأشجار", "فعل ماضٍ", "اسم"],
+            "answer": "فعل ِ"
+        }
+    }
+]

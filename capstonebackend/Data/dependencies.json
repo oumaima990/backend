@@ -1,0 +1,26 @@
+[
+    {
+        "model": "knowledge.dependency",
+        "fields": {
+            "main_node": 1,
+            "dependent_node": 2,
+            "influence_probability": 0.15
+        }
+    },
+    {
+        "model": "knowledge.dependency",
+        "fields": {
+            "main_node": 1,
+            "dependent_node": 3,
+            "influence_probability": 0.05
+        }
+    },
+    {
+        "model": "knowledge.dependency",
+        "fields": {
+            "main_node": 2,
+            "dependent_node": 4,
+            "influence_probability": 0.1
+        }
+    }
+]
